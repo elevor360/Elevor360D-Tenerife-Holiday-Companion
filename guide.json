@@ -1,0 +1,324 @@
+{
+  "version": "1.0",
+  "destination": "Tenerife",
+  "updated": "2026-11-01",
+  "intro": "Discover Tenerife, from sunny south-coast resorts to volcanic landscapes and historic towns. Plan your days and save favourite places, memorable visits and photos privately on your device.",
+  "areas": [
+    {
+      "name": "Costa Adeje",
+      "description": "South-west resort area with beaches, coastal walks, restaurants and family-friendly facilities."
+    },
+    {
+      "name": "Playa de las Américas",
+      "description": "Lively south-coast resort known for beaches, dining and nightlife."
+    },
+    {
+      "name": "Los Cristianos",
+      "description": "Harbour town with beaches, cafés and ferry connections to other Canary Islands."
+    },
+    {
+      "name": "Puerto de la Cruz",
+      "description": "North-coast town with historic streets, seafront walks and gardens."
+    },
+    {
+      "name": "Santa Cruz de Tenerife",
+      "description": "Island capital with shops, museums, markets and urban parks."
+    },
+    {
+      "name": "La Laguna",
+      "description": "Historic university city with colourful streets and traditional architecture."
+    },
+    {
+      "name": "El Médano",
+      "description": "Relaxed coastal town popular for windsurfing and kitesurfing; check wind and sea conditions."
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Teide National Park",
+      "description": "Volcanic landscapes surrounding Mount Teide. Check weather, road access, altitude and any permits before visiting."
+    },
+    {
+      "name": "Mount Teide cable car",
+      "description": "High-altitude cable car experience subject to weather, booking and operating conditions; summit access may require a separate permit."
+    },
+    {
+      "name": "Anaga Rural Park",
+      "description": "Mountain forests, viewpoints and hiking routes in the north-east; check trail restrictions and weather."
+    },
+    {
+      "name": "Masca village",
+      "description": "Mountain village with dramatic scenery and winding access roads; check transport and any trail booking requirements."
+    },
+    {
+      "name": "Auditorio de Tenerife",
+      "description": "Distinctive concert venue in Santa Cruz; check current events and visitor arrangements."
+    },
+    {
+      "name": "Garachico",
+      "description": "Historic coastal town with volcanic shoreline and natural swimming areas; enter the water only when conditions are safe."
+    }
+  ],
+  "beaches": [
+    {
+      "name": "Playa del Duque",
+      "description": "Popular Costa Adeje beach with nearby promenade and services."
+    },
+    {
+      "name": "Playa de Fañabé",
+      "description": "Sandy beach and busy promenade in Costa Adeje."
+    },
+    {
+      "name": "Playa de las Vistas",
+      "description": "Broad beach between Los Cristianos and Las Américas, with nearby cafés and services."
+    },
+    {
+      "name": "Playa de Los Cristianos",
+      "description": "Harbour-side beach close to shops and restaurants."
+    },
+    {
+      "name": "Playa de las Teresitas",
+      "description": "Golden-sand beach near Santa Cruz; check beach conditions and transport."
+    },
+    {
+      "name": "Playa Jardín",
+      "description": "North-coast black-sand beach in Puerto de la Cruz; check current swimming restrictions and water quality."
+    },
+    {
+      "name": "Playa de El Médano",
+      "description": "Long sandy beach popular for watersports; often windy."
+    }
+  ],
+  "markets": [
+    {
+      "name": "Mercado Nuestra Señora de África",
+      "description": "Well-known covered market in Santa Cruz for produce and local foods; check opening times."
+    },
+    {
+      "name": "Costa Adeje shopping areas",
+      "description": "Browse shops and cafés around resort centres and promenades."
+    },
+    {
+      "name": "Los Cristianos shopping streets",
+      "description": "Explore local shops and market options; confirm market days and locations locally."
+    },
+    {
+      "name": "La Laguna historic centre",
+      "description": "Independent shops and cafés along pedestrian-friendly historic streets."
+    }
+  ],
+  "nightlife": [
+    {
+      "name": "Playa de las Américas evenings",
+      "description": "Busy nightlife areas with bars, music and late-night venues; check age restrictions and opening hours."
+    },
+    {
+      "name": "Costa Adeje waterfront",
+      "description": "Relaxed bars and restaurants along the coast."
+    },
+    {
+      "name": "Los Cristianos harbour area",
+      "description": "Restaurants and evening strolls around the harbour and town."
+    },
+    {
+      "name": "Puerto de la Cruz",
+      "description": "Town-centre restaurants, cafés and cultural events; check current listings."
+    },
+    {
+      "name": "Live shows and entertainment",
+      "description": "Schedules and tickets change; check official venue information before travelling."
+    }
+  ],
+  "family": [
+    {
+      "name": "Siam Park",
+      "description": "Water park in the south; check tickets, seasonal hours and ride restrictions."
+    },
+    {
+      "name": "Loro Parque",
+      "description": "Wildlife attraction in Puerto de la Cruz; review visitor information and animal-welfare considerations before visiting."
+    },
+    {
+      "name": "Whale and dolphin watching",
+      "description": "Boat excursions depart from south-coast harbours; choose responsible operators and check sea conditions."
+    },
+    {
+      "name": "Beach and promenade day",
+      "description": "Choose a beach suited to your group and follow lifeguard flags and sun-safety advice."
+    },
+    {
+      "name": "Teide viewpoints",
+      "description": "Family-friendly sightseeing stops where accessible; bring layers because temperatures change with altitude."
+    }
+  ],
+  "dining": [
+    {
+      "name": "Costa Adeje seafront",
+      "description": "Wide choice of cafés and restaurants near the promenade; check menus and prices."
+    },
+    {
+      "name": "Los Cristianos old streets",
+      "description": "Casual dining and cafés around the town centre and harbour."
+    },
+    {
+      "name": "La Laguna traditional restaurants",
+      "description": "Explore Canarian dishes in the historic centre."
+    },
+    {
+      "name": "Puerto de la Cruz town centre",
+      "description": "Restaurants and cafés around the old streets and seafront."
+    },
+    {
+      "name": "Guachinches",
+      "description": "Traditional local eating spots, especially in northern Tenerife; availability and opening days can vary."
+    }
+  ],
+  "daytrips": [
+    {
+      "name": "Teide National Park",
+      "description": "See volcanic scenery and viewpoints; check road conditions, altitude, weather and permits."
+    },
+    {
+      "name": "La Laguna and Anaga",
+      "description": "Combine the historic city with mountain scenery if travel conditions allow."
+    },
+    {
+      "name": "Garachico and Icod de los Vinos",
+      "description": "Explore a historic coastal town and the famous dragon tree area."
+    },
+    {
+      "name": "Masca and Teno mountains",
+      "description": "Scenic mountain route; roads can be narrow and access rules can change."
+    },
+    {
+      "name": "Santa Cruz and Las Teresitas",
+      "description": "City sightseeing followed by time near the beach."
+    },
+    {
+      "name": "La Gomera",
+      "description": "Ferry day trip from Los Cristianos; check sailing times, costs and weather."
+    }
+  ],
+  "transport": [
+    {
+      "name": "TITSA buses",
+      "description": "Public buses connect many towns and resorts. Check official routes, fares and schedules."
+    },
+    {
+      "name": "Tenerife tram",
+      "description": "Tram services connect Santa Cruz and La Laguna; check current routes and fares."
+    },
+    {
+      "name": "Tenerife South Airport (TFS)",
+      "description": "Main airport for many south-coast holidays; compare transfers and bus options."
+    },
+    {
+      "name": "Tenerife North Airport (TFN)",
+      "description": "Airport near La Laguna serving many inter-island and mainland routes."
+    },
+    {
+      "name": "Car hire and mountain roads",
+      "description": "Mountain routes may be steep and winding. Check parking, road closures and insurance."
+    },
+    {
+      "name": "Ferries",
+      "description": "Services connect Tenerife with other Canary Islands; verify departure port and sailing times."
+    }
+  ],
+  "useful": [
+    {
+      "name": "Emergency services",
+      "description": "Call 112 in an emergency in Spain and the Canary Islands."
+    },
+    {
+      "name": "Sun and altitude",
+      "description": "Use sun protection and take extra care on exposed volcanic trails and at altitude."
+    },
+    {
+      "name": "Travel documents and insurance",
+      "description": "Check current entry rules, travel insurance and healthcare arrangements before travelling."
+    },
+    {
+      "name": "Time zone",
+      "description": "Tenerife uses the same clock time as the UK throughout the year."
+    },
+    {
+      "name": "Live information",
+      "description": "Weather, road closures, attraction availability and transport timetables require an internet connection."
+    }
+  ],
+  "links": [
+    {
+      "name": "UK travel advice for Spain",
+      "url": "https://www.gov.uk/foreign-travel-advice/spain"
+    },
+    {
+      "name": "Tenerife official tourism",
+      "url": "https://www.webtenerife.co.uk/"
+    },
+    {
+      "name": "TITSA buses",
+      "url": "https://titsa.com/"
+    },
+    {
+      "name": "Teide National Park visitor information",
+      "url": "https://www.gobiernodecanarias.org/parquesnacionales/teide/"
+    }
+  ],
+  "mapPlaces": [
+    {
+      "name": "Costa Adeje",
+      "description": "South-west coast resort area.",
+      "lat": 28.086,
+      "lon": -16.733
+    },
+    {
+      "name": "Los Cristianos",
+      "description": "South-coast harbour and beaches.",
+      "lat": 28.051,
+      "lon": -16.717
+    },
+    {
+      "name": "Playa de las Américas",
+      "description": "South-coast resort and nightlife.",
+      "lat": 28.062,
+      "lon": -16.729
+    },
+    {
+      "name": "Puerto de la Cruz",
+      "description": "North-coast town.",
+      "lat": 28.416,
+      "lon": -16.551
+    },
+    {
+      "name": "Santa Cruz de Tenerife",
+      "description": "Island capital.",
+      "lat": 28.464,
+      "lon": -16.252
+    },
+    {
+      "name": "San Cristóbal de La Laguna",
+      "description": "Historic city.",
+      "lat": 28.489,
+      "lon": -16.316
+    },
+    {
+      "name": "Teide National Park",
+      "description": "Volcanic national park area.",
+      "lat": 28.273,
+      "lon": -16.642
+    },
+    {
+      "name": "El Médano",
+      "description": "South-east coastal town.",
+      "lat": 28.044,
+      "lon": -16.537
+    }
+  ],
+  "advert": {
+    "enabled": false,
+    "image": "adverts/advert.jpg",
+    "link": "",
+    "alt": "Destination advert"
+  }
+}
