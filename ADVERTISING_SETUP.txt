@@ -1,0 +1,7 @@
+Tenerife Holiday Companion V2 - Universal Advertising Manager V1 support
+
+Upload all files and folders to the Tenerife GitHub repository.
+Use Manager V1 to export adverts.json and associated image files.
+Replace advertising/adverts.json and upload image files to advertising/images/.
+The example advert links to https://elevor360d.co.uk/.
+The original guide, personal data storage, and planner features are unchanged.

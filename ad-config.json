@@ -1,0 +1,6 @@
+{
+  "feedUrl": "advertising/adverts.json",
+  "appId": "tenerife-companion",
+  "group": "holiday",
+  "refreshMinutes": 30
+}
